@@ -1,0 +1,1 @@
+To clone a specific branch from a GitHub repository, you can use the git clone command combined with the --branch (or -b) option, and the repository URL [1, 2]. 
